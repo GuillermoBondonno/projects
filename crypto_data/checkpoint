@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Familia\\Bioquimica Guille\\crypto_data\\modelo_guardado.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Familia\\Bioquimica Guille\\crypto_data\\modelo_guardado.ckpt"

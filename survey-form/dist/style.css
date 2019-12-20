@@ -1,0 +1,56 @@
+body{
+  text-align: center;
+  background-color: hsla(217, 100%, 68%, 0.5);
+  font-family: consolas;
+}
+form{
+  background-color: hsla(168, 100%, 91%, 1);
+
+  padding: 30px;
+  margin: 30px;
+  width: 50%;
+  display: inline-block;
+}
+.labels{
+  display: inline-block;
+  width: 15%;
+  vertical-align: top;
+  text-align: right;
+}
+input{
+  display: inline-block;
+  width: 15%;
+  vertical-align: top;
+}
+.radio-labels{
+  display: inline-block;
+  width: 5%;
+  vertical-align: top;
+  text-align: right;
+}
+input[type="radio"] {
+  display: inline-block;
+  width: 5%;
+  vertical-align: top;
+  
+}
+
+.checkbox-labels{
+  display: inline-block;
+  width: 2%;
+  vertical-align: top;
+  text-align: right;
+}
+input[type="checkbox"] {
+  display: inline-block;
+  width: 2%;
+  vertical-align: top;
+  
+}
+textarea, button{
+  margin: 15px;
+  display: inline-block;
+}
+.label-div{
+  padding: 9px;
+}

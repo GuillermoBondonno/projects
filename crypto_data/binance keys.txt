@@ -1,0 +1,4 @@
+API Key:
+************************************************************
+Secret Key:  For your security, your API Secret Key will only be displayed at the time it is created. If you lose this key, you will need to delete your API and set up a new one.
+************************************************************
