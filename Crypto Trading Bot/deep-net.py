@@ -1,4 +1,3 @@
-
 import pandas as pd
 from sklearn import preprocessing
 from collections import deque
@@ -124,10 +123,6 @@ times = sorted(main_df.index.values)
 
 
 last_5pc = times[-int(0.05*len(times))]
-
-
-
-last_5pc
 
 
 
